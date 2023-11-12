@@ -1,0 +1,115 @@
+.my-logo{
+    height:50px;
+    
+}
+.body-section{
+    background-image: url("https://wallpapers.com/images/hd/plain-black-background-02fh7564l8qq4m6d.jpg");
+    background-size: cover;
+    height:100%;
+}
+
+
+.anchor{
+    margin-left: auto;
+}
+.text-white:hover{
+   color: green;
+}
+
+.main-heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-style: italic;
+    color:white;
+    text-align: center;
+    padding-top: 50px;
+}
+.main-para{
+    color:orange;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.main-para-1{
+    color:whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: left;
+    padding-top: 80px;
+    font-style: italic;
+
+}
+.card{
+    border: 2px;
+    border-color: white ;
+    background-color: transparent;
+    border-style: solid;
+    text-align: center;
+    margin:10px;
+}
+.card-pic{
+    padding:10px
+}
+.pic-desc{
+    color: yellow;
+    font-size: 10px;
+    font-family: cursive;
+    
+}
+.pic-price{
+    color:red;
+    font-size: 15px;
+}
+.pic-offer{
+    color:azure;
+    font-size: 15px;
+}
+.add-heading{
+    color:skyblue;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    padding-top: 60px;
+}
+.add-desc{
+    color:white;
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+}
+.add-mail{
+    color:blue;
+    font-size: 17px;
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+.social-icon{
+    height:60px;
+    padding:10px;
+}
+.add-heading-1{
+    color:orangered;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    padding-top: 60px;
+}
+.button{
+    width:100px;
+    margin:auto;
+    margin-bottom:10px;
+}
+.button-1{
+    width:100px;
+    margin:auto;
+    margin-bottom:10px;
+}
+
